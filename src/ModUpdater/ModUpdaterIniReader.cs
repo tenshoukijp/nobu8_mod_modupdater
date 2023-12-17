@@ -11,7 +11,7 @@ namespace ModUpdater
         
         static String iniFileName = "ModUpdater.ini";
         static String URL = "";
-        static String strTmpDir = System.IO.Path.Combine(System.IO.Path.GetTempPath(), "N8UpdateArchive");
+        static String strTmpDir = System.IO.Path.Combine(System.IO.Path.GetTempPath(), "UpdateArchive");
 
         List<String> lstUpdateFiles;
 
@@ -33,7 +33,7 @@ namespace ModUpdater
             {
                 iniFile = new InifileUtils(iniFileName);
                 Text = "「" + iniFile.getValueString("Archive", "Title") + "」の更新をチェック";
-
+                strTmpDir = System.IO.Path.Combine(System.IO.Path.GetTempPath(), iniFile.getValueString("Archive", "Temp"));
                 URL = iniFile.getValueString("Archive", "URL");
 
                 for (int i = 0; i < 100; i++)
