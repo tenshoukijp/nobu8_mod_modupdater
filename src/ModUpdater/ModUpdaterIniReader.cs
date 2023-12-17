@@ -11,7 +11,7 @@ namespace ModUpdater
         
         static String iniFileName = "ModUpdater.ini";
         static String URL = "";
-        static String strTmpDir = System.IO.Path.Combine(System.IO.Path.GetTempPath(), "N10UpdateArchive");
+        static String strTmpDir = System.IO.Path.Combine(System.IO.Path.GetTempPath(), "N8UpdateArchive");
 
         List<String> lstUpdateFiles;
 
