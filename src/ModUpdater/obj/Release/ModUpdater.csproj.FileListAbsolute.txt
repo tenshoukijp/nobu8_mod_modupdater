@@ -1,0 +1,7 @@
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\bin\Release\ModUpdater.exe.config
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\bin\Release\ModUpdater.exe
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\obj\Release\ModUpdater.csproj.AssemblyReference.cache
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\obj\Release\ModUpdater.ModUpdaterRes.resources
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\obj\Release\ModUpdater.csproj.GenerateResource.cache
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\obj\Release\ModUpdater.csproj.CoreCompileInputs.cache
+C:\nobu6_mod_modupdater\modupdater\ModUpdater\ModUpdater\obj\Release\ModUpdater.exe
